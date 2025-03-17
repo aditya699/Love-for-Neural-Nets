@@ -8,3 +8,4 @@ This repo will contain a series where I will reconnect with neural nets (because
 | DAY 2 | Training a simple neural net, Pydantic with Gemini API (structured output for PDF processing) |
 | DAY 3 | Visualizing the neural net, Understanding it a little deeper                                  |
 | DAY 4 |Implementing a perceptron from scratch|
+| DAY 5(session 1) | Implementing a neural net from scratch mini-batch training, regularization techniques, stopping criteria|
